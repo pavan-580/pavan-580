@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pavan-580
-- 👀 I’m interested in coding , Debugging
+- 👀 I’m interested in Coding , Debugging
 - 🌱 I’m currently learning to become a full stack developer 
 - 💞️ I’m looking to collaborate on skilled person and team where i can enhance my skills to  their level
 - 📫 How to reach me pavansai580@gmail.com
